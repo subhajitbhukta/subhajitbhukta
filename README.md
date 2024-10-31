@@ -22,7 +22,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhajitbhukta&" alt="subhajitbhukta" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-
