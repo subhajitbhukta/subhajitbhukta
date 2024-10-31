@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/cc/c2/ab/ccc2ab0a383bf52bac28cb8546d1afc2.gif" alt="MasterHead" height="400"/>
+<img src="https://i.pinimg.com/originals/cc/c2/ab/ccc2ab0a383bf52bac28cb8546d1afc2.gif" alt="MasterHead" height=""/>
 
 <h1 align="center">Hi 👋, I'm SUBHAJIT BHUKTA</h1>
 <h3 align="center">Full Stack Developer | Passionate about Crafting Scalable Solutions</h3>
