@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm SUBHAJIT BHUKTA</h1>
-<h3 align="center">Full Stack Developer | Passionate about Crafting Scalable Solutions</h3>
+<h3 align="center">Frontend Software Developer | Passionate about Crafting Scalable Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajitbhukta&label=Profile%20views&color=0e75b6&style=flat" alt="subhajitbhukta" /> </p>
 
